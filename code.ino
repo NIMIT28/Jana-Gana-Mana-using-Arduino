@@ -1,8 +1,9 @@
 /*
 
-Copyright(c)- Nimit Dinesh Kumar Shah 
+Copyright(c)- Nimit Dinesh Kumar Shah (ROBOTICS WITH NIMIT)
 
-Subscribemy YouTube channel - https://youtube.com/channel/UCR6YTj4WovwRr5Vt_IkUwOg
+Subscribe my YouTube channel - https://youtube.com/channel/UCR6YTj4WovwRr5Vt_IkUwOg
+
 */
 
 int speakerPin = 7; //buzzer is connected to Pin 11 of the Board.
